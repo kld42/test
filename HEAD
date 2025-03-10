@@ -1,0 +1,175 @@
+0000000000000000000000000000000000000000 da8bdf126c2c27e8dedc977cf3ee6cd29f927605 Muhibur Rahman <dev.muhib01@gmail.com> 1724390146 +0600	clone: from https://github.com/devmuhib/automation-workflow-builder.git
+da8bdf126c2c27e8dedc977cf3ee6cd29f927605 81e837a32638f9d0202fe0d85f9ebc88922b1491 Muhibur Rahman <dev.muhib01@gmail.com> 1724473631 +0600	commit: up
+81e837a32638f9d0202fe0d85f9ebc88922b1491 74b1bfdde9872e91a2da6318695898adfd831bd8 Muhibur Rahman <dev.muhib01@gmail.com> 1724491179 +0600	commit: reactflow setup
+74b1bfdde9872e91a2da6318695898adfd831bd8 74b1bfdde9872e91a2da6318695898adfd831bd8 Muhibur Rahman <dev.muhib01@gmail.com> 1724491209 +0600	checkout: moving from main to working-with-node
+74b1bfdde9872e91a2da6318695898adfd831bd8 8f0dbb981fdf18081059a59208689b8b4b16ea18 Muhibur Rahman <dev.muhib01@gmail.com> 1724493780 +0600	commit: custom nodes and edges added
+8f0dbb981fdf18081059a59208689b8b4b16ea18 74b1bfdde9872e91a2da6318695898adfd831bd8 Muhibur Rahman <dev.muhib01@gmail.com> 1724493789 +0600	checkout: moving from working-with-node to main
+74b1bfdde9872e91a2da6318695898adfd831bd8 8f0dbb981fdf18081059a59208689b8b4b16ea18 Muhibur Rahman <dev.muhib01@gmail.com> 1724493794 +0600	merge working-with-node: Fast-forward
+8f0dbb981fdf18081059a59208689b8b4b16ea18 8f0dbb981fdf18081059a59208689b8b4b16ea18 Muhibur Rahman <dev.muhib01@gmail.com> 1724493807 +0600	checkout: moving from main to working-with-node
+8f0dbb981fdf18081059a59208689b8b4b16ea18 f3f6a73e79ea08e840c74bf34b001d5cac44bc9b Muhibur Rahman <dev.muhib01@gmail.com> 1724721183 +0600	commit: update
+f3f6a73e79ea08e840c74bf34b001d5cac44bc9b 04fd538e28fbd9045a40e45c803efe812171e7ad Muhibur Rahman <dev.muhib01@gmail.com> 1724811927 +0600	commit: editor navigation and topbar update
+04fd538e28fbd9045a40e45c803efe812171e7ad 8f0dbb981fdf18081059a59208689b8b4b16ea18 Muhibur Rahman <dev.muhib01@gmail.com> 1724811951 +0600	checkout: moving from working-with-node to main
+8f0dbb981fdf18081059a59208689b8b4b16ea18 04fd538e28fbd9045a40e45c803efe812171e7ad Muhibur Rahman <dev.muhib01@gmail.com> 1724811963 +0600	merge working-with-node: Fast-forward
+04fd538e28fbd9045a40e45c803efe812171e7ad 04fd538e28fbd9045a40e45c803efe812171e7ad Muhibur Rahman <dev.muhib01@gmail.com> 1724811982 +0600	checkout: moving from main to working-with-node
+04fd538e28fbd9045a40e45c803efe812171e7ad ffa6f4ad0bee84b2d4d34a92e43374e5987bb9b8 Muhibur Rahman <dev.muhib01@gmail.com> 1724891464 +0600	commit: notification done
+ffa6f4ad0bee84b2d4d34a92e43374e5987bb9b8 8bb6c97f8c9eca6901783bb38ee57f5a60828b6f Muhibur Rahman <dev.muhib01@gmail.com> 1724892408 +0600	commit: update
+8bb6c97f8c9eca6901783bb38ee57f5a60828b6f ecc2f9f41bf1dced14c25ddecf002fead1a54e0d Muhibur Rahman <dev.muhib01@gmail.com> 1725681209 +0600	commit: editor sidebar added
+ecc2f9f41bf1dced14c25ddecf002fead1a54e0d 04fd538e28fbd9045a40e45c803efe812171e7ad Muhibur Rahman <dev.muhib01@gmail.com> 1725681222 +0600	checkout: moving from working-with-node to main
+04fd538e28fbd9045a40e45c803efe812171e7ad ecc2f9f41bf1dced14c25ddecf002fead1a54e0d Muhibur Rahman <dev.muhib01@gmail.com> 1725681227 +0600	merge working-with-node: Fast-forward
+ecc2f9f41bf1dced14c25ddecf002fead1a54e0d ecc2f9f41bf1dced14c25ddecf002fead1a54e0d Muhibur Rahman <dev.muhib01@gmail.com> 1725681234 +0600	checkout: moving from main to working-with-node
+ecc2f9f41bf1dced14c25ddecf002fead1a54e0d 0b954fe79abd7a025e2011ca564cfa67bf9c30b2 Muhibur Rahman <dev.muhib01@gmail.com> 1725694197 +0600	commit: automation pages added
+0b954fe79abd7a025e2011ca564cfa67bf9c30b2 b0ae4d71abfc7c14367a61cf576ad5c33163acc5 Muhibur Rahman <dev.muhib01@gmail.com> 1725695712 +0600	commit: modal added
+b0ae4d71abfc7c14367a61cf576ad5c33163acc5 6a3fa2fd9569d4d2aa682375e0c64dbe440ab7dd Muhibur Rahman <dev.muhib01@gmail.com> 1725696264 +0600	commit: update
+6a3fa2fd9569d4d2aa682375e0c64dbe440ab7dd 83614b2d95e21e7b9a2ef224e487a1acd012c739 Muhibur Rahman <dev.muhib01@gmail.com> 1725699665 +0600	commit: icon added on nodes
+83614b2d95e21e7b9a2ef224e487a1acd012c739 ecc2f9f41bf1dced14c25ddecf002fead1a54e0d Muhibur Rahman <dev.muhib01@gmail.com> 1725699671 +0600	checkout: moving from working-with-node to main
+ecc2f9f41bf1dced14c25ddecf002fead1a54e0d 83614b2d95e21e7b9a2ef224e487a1acd012c739 Muhibur Rahman <dev.muhib01@gmail.com> 1725699677 +0600	merge working-with-node: Fast-forward
+83614b2d95e21e7b9a2ef224e487a1acd012c739 83614b2d95e21e7b9a2ef224e487a1acd012c739 Muhibur Rahman <dev.muhib01@gmail.com> 1725699685 +0600	checkout: moving from main to working-with-node
+83614b2d95e21e7b9a2ef224e487a1acd012c739 d7a84d07817c122127c2e2cd170f1dc62b82caa9 Muhibur Rahman <dev.muhib01@gmail.com> 1725700302 +0600	commit: update
+d7a84d07817c122127c2e2cd170f1dc62b82caa9 9602c00f9470c4a3187cff70c1b5922f3ae1c91f Muhibur Rahman <dev.muhib01@gmail.com> 1725725683 +0600	commit: update modal and triggers
+9602c00f9470c4a3187cff70c1b5922f3ae1c91f 8b6a51a8d25bf14db5a8c0733cbe081135b59a19 Muhibur Rahman <dev.muhib01@gmail.com> 1726148090 +0600	commit: carrier page added
+8b6a51a8d25bf14db5a8c0733cbe081135b59a19 7b1191227f1437e08e410f73fa3696cfa6c1bd4b Muhibur Rahman <dev.muhib01@gmail.com> 1726156948 +0600	commit: carrier and order modal done
+7b1191227f1437e08e410f73fa3696cfa6c1bd4b 83614b2d95e21e7b9a2ef224e487a1acd012c739 Muhibur Rahman <dev.muhib01@gmail.com> 1726156959 +0600	checkout: moving from working-with-node to main
+83614b2d95e21e7b9a2ef224e487a1acd012c739 7b1191227f1437e08e410f73fa3696cfa6c1bd4b Muhibur Rahman <dev.muhib01@gmail.com> 1726156965 +0600	merge working-with-node: Fast-forward
+7b1191227f1437e08e410f73fa3696cfa6c1bd4b 7b1191227f1437e08e410f73fa3696cfa6c1bd4b Muhibur Rahman <dev.muhib01@gmail.com> 1726156973 +0600	checkout: moving from main to working-with-node
+7b1191227f1437e08e410f73fa3696cfa6c1bd4b 1b3564861775310d71e36f59f73ed5d33ca96cf7 Muhibur Rahman <dev.muhib01@gmail.com> 1726157503 +0600	commit: update
+1b3564861775310d71e36f59f73ed5d33ca96cf7 7b1191227f1437e08e410f73fa3696cfa6c1bd4b Muhibur Rahman <dev.muhib01@gmail.com> 1726157507 +0600	checkout: moving from working-with-node to main
+7b1191227f1437e08e410f73fa3696cfa6c1bd4b 1b3564861775310d71e36f59f73ed5d33ca96cf7 Muhibur Rahman <dev.muhib01@gmail.com> 1726157512 +0600	merge working-with-node: Fast-forward
+1b3564861775310d71e36f59f73ed5d33ca96cf7 1b3564861775310d71e36f59f73ed5d33ca96cf7 Muhibur Rahman <dev.muhib01@gmail.com> 1726157515 +0600	checkout: moving from main to working-with-node
+1b3564861775310d71e36f59f73ed5d33ca96cf7 c5ed88a72b85206a2e6468262f6369193031c610 Muhibur Rahman <dev.muhib01@gmail.com> 1726159727 +0600	commit: update
+c5ed88a72b85206a2e6468262f6369193031c610 1b3564861775310d71e36f59f73ed5d33ca96cf7 Muhibur Rahman <dev.muhib01@gmail.com> 1726159730 +0600	checkout: moving from working-with-node to main
+1b3564861775310d71e36f59f73ed5d33ca96cf7 c5ed88a72b85206a2e6468262f6369193031c610 Muhibur Rahman <dev.muhib01@gmail.com> 1726159736 +0600	merge working-with-node: Fast-forward
+c5ed88a72b85206a2e6468262f6369193031c610 c5ed88a72b85206a2e6468262f6369193031c610 Muhibur Rahman <dev.muhib01@gmail.com> 1726159742 +0600	checkout: moving from main to working-with-node
+c5ed88a72b85206a2e6468262f6369193031c610 2803298e16645be6d79ed11b2ebfb16d7678e4bb Muhibur Rahman <dev.muhib01@gmail.com> 1726164008 +0600	commit: orders page design
+2803298e16645be6d79ed11b2ebfb16d7678e4bb c5ed88a72b85206a2e6468262f6369193031c610 Muhibur Rahman <dev.muhib01@gmail.com> 1726164016 +0600	checkout: moving from working-with-node to main
+c5ed88a72b85206a2e6468262f6369193031c610 2803298e16645be6d79ed11b2ebfb16d7678e4bb Muhibur Rahman <dev.muhib01@gmail.com> 1726164020 +0600	merge working-with-node: Fast-forward
+2803298e16645be6d79ed11b2ebfb16d7678e4bb 2803298e16645be6d79ed11b2ebfb16d7678e4bb Muhibur Rahman <dev.muhib01@gmail.com> 1726164030 +0600	checkout: moving from main to working-with-node
+2803298e16645be6d79ed11b2ebfb16d7678e4bb fb6e9b16c131b55e2a0700707fa69e99c281d260 Muhibur Rahman <dev.muhib01@gmail.com> 1726164229 +0600	commit: edit icon update
+fb6e9b16c131b55e2a0700707fa69e99c281d260 f0def70ac88d44d3b364756ce03ee91178682f11 Muhibur Rahman <dev.muhib01@gmail.com> 1726199040 +0600	commit: search input refactored
+f0def70ac88d44d3b364756ce03ee91178682f11 2803298e16645be6d79ed11b2ebfb16d7678e4bb Muhibur Rahman <dev.muhib01@gmail.com> 1726199047 +0600	checkout: moving from working-with-node to main
+2803298e16645be6d79ed11b2ebfb16d7678e4bb f0def70ac88d44d3b364756ce03ee91178682f11 Muhibur Rahman <dev.muhib01@gmail.com> 1726199052 +0600	merge working-with-node: Fast-forward
+f0def70ac88d44d3b364756ce03ee91178682f11 f0def70ac88d44d3b364756ce03ee91178682f11 Muhibur Rahman <dev.muhib01@gmail.com> 1726199057 +0600	checkout: moving from main to working-with-node
+f0def70ac88d44d3b364756ce03ee91178682f11 a2bad0ba0f6994b34f09d497575c6f7662b3f486 Muhibur Rahman <dev.muhib01@gmail.com> 1726200496 +0600	commit: folder strucure changed
+a2bad0ba0f6994b34f09d497575c6f7662b3f486 f0def70ac88d44d3b364756ce03ee91178682f11 Muhibur Rahman <dev.muhib01@gmail.com> 1726200507 +0600	checkout: moving from working-with-node to main
+f0def70ac88d44d3b364756ce03ee91178682f11 a2bad0ba0f6994b34f09d497575c6f7662b3f486 Muhibur Rahman <dev.muhib01@gmail.com> 1726200513 +0600	merge working-with-node: Fast-forward
+a2bad0ba0f6994b34f09d497575c6f7662b3f486 a2bad0ba0f6994b34f09d497575c6f7662b3f486 Muhibur Rahman <dev.muhib01@gmail.com> 1726200526 +0600	checkout: moving from main to working-with-node
+a2bad0ba0f6994b34f09d497575c6f7662b3f486 575ff8f40f94fbebc20b56bf97c7e1215250e75e Muhibur Rahman <dev.muhib01@gmail.com> 1726204643 +0600	commit: edit and add node function added
+575ff8f40f94fbebc20b56bf97c7e1215250e75e a2bad0ba0f6994b34f09d497575c6f7662b3f486 Muhibur Rahman <dev.muhib01@gmail.com> 1726205066 +0600	checkout: moving from working-with-node to main
+a2bad0ba0f6994b34f09d497575c6f7662b3f486 575ff8f40f94fbebc20b56bf97c7e1215250e75e Muhibur Rahman <dev.muhib01@gmail.com> 1726205072 +0600	merge working-with-node: Fast-forward
+575ff8f40f94fbebc20b56bf97c7e1215250e75e 575ff8f40f94fbebc20b56bf97c7e1215250e75e Muhibur Rahman <dev.muhib01@gmail.com> 1726205078 +0600	checkout: moving from main to working-with-node
+575ff8f40f94fbebc20b56bf97c7e1215250e75e 0cf32c12c60bb1511a8f49c4844268f5b2294693 Muhibur Rahman <dev.muhib01@gmail.com> 1726236594 +0600	commit: save added
+0cf32c12c60bb1511a8f49c4844268f5b2294693 b1545e3e9f83fbdf4679d4e310b4d4d224d9281c Muhibur Rahman <dev.muhib01@gmail.com> 1726238387 +0600	commit: restore added
+b1545e3e9f83fbdf4679d4e310b4d4d224d9281c 575ff8f40f94fbebc20b56bf97c7e1215250e75e Muhibur Rahman <dev.muhib01@gmail.com> 1726238396 +0600	checkout: moving from working-with-node to main
+575ff8f40f94fbebc20b56bf97c7e1215250e75e b1545e3e9f83fbdf4679d4e310b4d4d224d9281c Muhibur Rahman <dev.muhib01@gmail.com> 1726238401 +0600	merge working-with-node: Fast-forward
+b1545e3e9f83fbdf4679d4e310b4d4d224d9281c b1545e3e9f83fbdf4679d4e310b4d4d224d9281c Muhibur Rahman <dev.muhib01@gmail.com> 1726238407 +0600	checkout: moving from main to working-with-node
+b1545e3e9f83fbdf4679d4e310b4d4d224d9281c d8f1085ddf855d0f3abb1f58c9df7b90d594aa7f Muhibur Rahman <dev.muhib01@gmail.com> 1726315953 +0600	commit: form added for node edit and select refactored
+d8f1085ddf855d0f3abb1f58c9df7b90d594aa7f 4864d62bfed4f4fdfea813562e9c275547b3c780 Muhibur Rahman <dev.muhib01@gmail.com> 1726325676 +0600	commit: update email and wait
+4864d62bfed4f4fdfea813562e9c275547b3c780 6501e2d7ef32fcd9ea1aeffa4fc0500ef6231fef Muhibur Rahman <dev.muhib01@gmail.com> 1727713941 +0600	commit: if else node update
+6501e2d7ef32fcd9ea1aeffa4fc0500ef6231fef 880d2197576704df83ce3f71eb0c43f8c1da7c54 Muhibur Rahman <dev.muhib01@gmail.com> 1727951035 +0600	pull --ff --recurse-submodules --progress origin: Fast-forward
+880d2197576704df83ce3f71eb0c43f8c1da7c54 43bdf27a0c32c9327eab5f1d84cba4351b9051d8 Muhibur Rahman <dev.muhib01@gmail.com> 1727955764 +0600	commit: optimized and refactored nodes and add delete nodes
+43bdf27a0c32c9327eab5f1d84cba4351b9051d8 27b82c5618ac9dc10924b16f9504f055f41489eb Muhibur Rahman <dev.muhib01@gmail.com> 1727956339 +0600	commit: added some comments for better understanding
+27b82c5618ac9dc10924b16f9504f055f41489eb 27b82c5618ac9dc10924b16f9504f055f41489eb Muhibur Rahman <dev.muhib01@gmail.com> 1727960592 +0600	checkout: moving from working-with-node to upgrade-nodes
+27b82c5618ac9dc10924b16f9504f055f41489eb 27b82c5618ac9dc10924b16f9504f055f41489eb Muhibur Rahman <dev.muhib01@gmail.com> 1727960616 +0600	reset: moving to HEAD
+27b82c5618ac9dc10924b16f9504f055f41489eb 27b82c5618ac9dc10924b16f9504f055f41489eb Muhibur Rahman <dev.muhib01@gmail.com> 1727960616 +0600	checkout: moving from upgrade-nodes to working-with-node
+27b82c5618ac9dc10924b16f9504f055f41489eb 27b82c5618ac9dc10924b16f9504f055f41489eb Muhibur Rahman <dev.muhib01@gmail.com> 1727960633 +0600	checkout: moving from working-with-node to upgrade-nodes
+27b82c5618ac9dc10924b16f9504f055f41489eb 27b82c5618ac9dc10924b16f9504f055f41489eb Muhibur Rahman <dev.muhib01@gmail.com> 1727963205 +0600	reset: moving to HEAD
+27b82c5618ac9dc10924b16f9504f055f41489eb 15926fe33d219166a20538e5ea36ca18618d8911 Muhibur Rahman <dev.muhib01@gmail.com> 1727965648 +0600	commit: update
+15926fe33d219166a20538e5ea36ca18618d8911 550bfcd8ad3b91d73e768946c99d9791d1a7a254 Muhibur Rahman <dev.muhib01@gmail.com> 1727968411 +0600	commit: update
+550bfcd8ad3b91d73e768946c99d9791d1a7a254 f82e76cadbd0572f1f59b3194cb883906b5072aa Muhibur Rahman <dev.muhib01@gmail.com> 1728006582 +0600	commit: update
+f82e76cadbd0572f1f59b3194cb883906b5072aa df7c450178b6d87282bd8f4b6f25280f8ac80e6a Muhibur Rahman <dev.muhib01@gmail.com> 1728023549 +0600	commit: update
+df7c450178b6d87282bd8f4b6f25280f8ac80e6a c26fa743fa37814d342e5776b4c1ab71d838fc06 Muhibur Rahman <dev.muhib01@gmail.com> 1728622439 +0600	commit: sign in and signup forms added
+c26fa743fa37814d342e5776b4c1ab71d838fc06 2de1bcc34666d829c70c385d026d33d87917e5ff Muhibur Rahman <dev.muhib01@gmail.com> 1728622786 +0600	commit: basic validation added
+2de1bcc34666d829c70c385d026d33d87917e5ff 02d6b15dad8d79dd6f733351187b5e907eb34c43 Muhibur Rahman <dev.muhib01@gmail.com> 1728629136 +0600	commit: authentication added
+02d6b15dad8d79dd6f733351187b5e907eb34c43 17f66915ccaaa46b1160914529675336c52affca Muhibur Rahman <dev.muhib01@gmail.com> 1728662857 +0600	commit: up
+17f66915ccaaa46b1160914529675336c52affca 6a8d11cd3c345bdf4a8881af1175d55dba9e3357 Muhibur Rahman <dev.muhib01@gmail.com> 1728717005 +0600	commit: update
+6a8d11cd3c345bdf4a8881af1175d55dba9e3357 6a8d11cd3c345bdf4a8881af1175d55dba9e3357 Muhibur Rahman <dev.muhib01@gmail.com> 1728717027 +0600	checkout: moving from upgrade-nodes to app-integration
+6a8d11cd3c345bdf4a8881af1175d55dba9e3357 6ccf322414eb59f1837b37a1dd4579c840c31b9e Muhibur Rahman <dev.muhib01@gmail.com> 1729229346 +0600	commit: discord connection done
+6ccf322414eb59f1837b37a1dd4579c840c31b9e 04dd20ed87de838f3c574252c2a0abe2b9e49a51 Muhibur Rahman <dev.muhib01@gmail.com> 1729230232 +0600	commit: more apps card added
+04dd20ed87de838f3c574252c2a0abe2b9e49a51 947b0e05819702984828fe85d5715de4eb71244c Muhibur Rahman <dev.muhib01@gmail.com> 1729231380 +0600	commit: google sheets connected
+947b0e05819702984828fe85d5715de4eb71244c 947b0e05819702984828fe85d5715de4eb71244c Muhibur Rahman <dev.muhib01@gmail.com> 1729231397 +0600	checkout: moving from app-integration to google-tool-integrations
+947b0e05819702984828fe85d5715de4eb71244c 6fbc7aee1ef75954feb3e7f8f1a8d4a604420d98 Muhibur Rahman <dev.muhib01@gmail.com> 1729276372 +0600	commit: google tools integrations done
+6fbc7aee1ef75954feb3e7f8f1a8d4a604420d98 40363c617ab47fa4960e4f45b4112b8a8ad42270 Muhibur Rahman <dev.muhib01@gmail.com> 1729315632 +0600	commit: refactored code
+40363c617ab47fa4960e4f45b4112b8a8ad42270 19a3e9ccc1e03b62d9441dcc0f08f9b2c98b7fbe Muhibur Rahman <dev.muhib01@gmail.com> 1729325052 +0600	commit: connect, disconnect system added
+19a3e9ccc1e03b62d9441dcc0f08f9b2c98b7fbe ac7741bcbf49238d2bac8e468f076934aa3f5b12 Muhibur Rahman <dev.muhib01@gmail.com> 1729352658 +0600	commit: skeleton added and connection check, disconnect function moved to state
+ac7741bcbf49238d2bac8e468f076934aa3f5b12 39e2f25513d9dc59a63f08ba46b58cf8b2228e30 Muhibur Rahman <dev.muhib01@gmail.com> 1729356480 +0600	commit: update
+39e2f25513d9dc59a63f08ba46b58cf8b2228e30 ba35a692fa14126be16e6c808b209f18cefcf296 Muhibur Rahman <dev.muhib01@gmail.com> 1729563920 +0600	commit: nodes icons and nodes config updated
+ba35a692fa14126be16e6c808b209f18cefcf296 6e0ba554bb8cd82e0557c55cf34be8fb3c87b785 Muhibur Rahman <dev.muhib01@gmail.com> 1729836285 +0600	commit: updates
+6e0ba554bb8cd82e0557c55cf34be8fb3c87b785 2d37b85440f0dd1f5d14e9a1b3658b5310080250 Muhibur Rahman <dev.muhib01@gmail.com> 1729837434 +0600	commit: google and github auth image hostname added
+2d37b85440f0dd1f5d14e9a1b3658b5310080250 f5512aeb6d8b5724635c453cdfb12a848bc2758f Muhibur Rahman <dev.muhib01@gmail.com> 1729863144 +0600	commit: not found page added
+f5512aeb6d8b5724635c453cdfb12a848bc2758f a609e0cd5ad144b154fde7803c068caef921a07b Muhibur Rahman <dev.muhib01@gmail.com> 1729866650 +0600	commit: updated search input
+a609e0cd5ad144b154fde7803c068caef921a07b 18c7dea6d0f3b8aae757e25b81cb707b90a32920 Muhibur Rahman <dev.muhib01@gmail.com> 1729930937 +0600	commit: design update and nodes description added
+18c7dea6d0f3b8aae757e25b81cb707b90a32920 e623f6da59bfba04d704500d600d8cc324fc8d21 Muhibur Rahman <dev.muhib01@gmail.com> 1729937553 +0600	commit: node type, width, design update
+e623f6da59bfba04d704500d600d8cc324fc8d21 804b76069d202e2fbe96be16f386bf4f79f286ff Muhibur Rahman <dev.muhib01@gmail.com> 1729951242 +0600	commit: all nodes added and trigger badge added
+804b76069d202e2fbe96be16f386bf4f79f286ff 5a86cf7cb17705051affcba0b165bd08104de096 Muhibur Rahman <dev.muhib01@gmail.com> 1729952101 +0600	commit: update condition node
+5a86cf7cb17705051affcba0b165bd08104de096 5481b88fa11adb2812bb1e9daf0905eca4efaab4 Muhibur Rahman <dev.muhib01@gmail.com> 1729955604 +0600	commit: publish button added
+5481b88fa11adb2812bb1e9daf0905eca4efaab4 92a73e5d63bbd64040de4ece38f3eb4da45e3b8a Muhibur Rahman <dev.muhib01@gmail.com> 1729998081 +0600	commit: refactored code
+92a73e5d63bbd64040de4ece38f3eb4da45e3b8a 773ee5fe67714a90b917c235a2bd5a96a18493c6 Muhibur Rahman <dev.muhib01@gmail.com> 1730471953 +0600	commit: event bubbling prevented
+773ee5fe67714a90b917c235a2bd5a96a18493c6 d7c4ed6d41b6f1a4047f55f50ea2421dbb941219 Muhibur Rahman <dev.muhib01@gmail.com> 1730472209 +0600	commit: event bubbling prevented
+d7c4ed6d41b6f1a4047f55f50ea2421dbb941219 9a2b29589e6785cbbf48bd8cdcc4626ce431ae4f Muhibur Rahman <dev.muhib01@gmail.com> 1730474187 +0600	commit: update
+9a2b29589e6785cbbf48bd8cdcc4626ce431ae4f 82695e9f3d6ad79d01ead78700e530d3d03b7eb5 Muhibur Rahman <dev.muhib01@gmail.com> 1730527761 +0600	commit: credentials auth and error handling added
+82695e9f3d6ad79d01ead78700e530d3d03b7eb5 6a8d11cd3c345bdf4a8881af1175d55dba9e3357 Muhibur Rahman <dev.muhib01@gmail.com> 1731460942 +0600	checkout: moving from google-tool-integrations to upgrade-nodes
+6a8d11cd3c345bdf4a8881af1175d55dba9e3357 b1545e3e9f83fbdf4679d4e310b4d4d224d9281c Muhibur Rahman <dev.muhib01@gmail.com> 1731460952 +0600	checkout: moving from upgrade-nodes to main
+b1545e3e9f83fbdf4679d4e310b4d4d224d9281c 27b82c5618ac9dc10924b16f9504f055f41489eb Muhibur Rahman <dev.muhib01@gmail.com> 1731460957 +0600	checkout: moving from main to working-with-node
+27b82c5618ac9dc10924b16f9504f055f41489eb b1545e3e9f83fbdf4679d4e310b4d4d224d9281c Muhibur Rahman <dev.muhib01@gmail.com> 1731460965 +0600	checkout: moving from working-with-node to main
+b1545e3e9f83fbdf4679d4e310b4d4d224d9281c 82695e9f3d6ad79d01ead78700e530d3d03b7eb5 Muhibur Rahman <dev.muhib01@gmail.com> 1731460977 +0600	merge google-tool-integrations: Fast-forward
+82695e9f3d6ad79d01ead78700e530d3d03b7eb5 82695e9f3d6ad79d01ead78700e530d3d03b7eb5 Muhibur Rahman <dev.muhib01@gmail.com> 1731460987 +0600	checkout: moving from main to google-tool-integrations
+82695e9f3d6ad79d01ead78700e530d3d03b7eb5 d695f46f1d49b9f353518e10108cd48678bddba3 Muhibur Rahman <dev.muhib01@gmail.com> 1731466585 +0600	commit: webhook update
+d695f46f1d49b9f353518e10108cd48678bddba3 d3c8d160e262c81d27158f50424e06b4ec0870dd Muhibur Rahman <dev.muhib01@gmail.com> 1731739284 +0600	commit: discord send message done
+d3c8d160e262c81d27158f50424e06b4ec0870dd dd243f5693325ba1dae7b65b736d90215741c721 Muhibur Rahman <dev.muhib01@gmail.com> 1731896819 +0600	commit: spreadsheets and worksheets loaded
+dd243f5693325ba1dae7b65b736d90215741c721 82695e9f3d6ad79d01ead78700e530d3d03b7eb5 Muhibur Rahman <dev.muhib01@gmail.com> 1731896834 +0600	checkout: moving from google-tool-integrations to main
+82695e9f3d6ad79d01ead78700e530d3d03b7eb5 dd243f5693325ba1dae7b65b736d90215741c721 Muhibur Rahman <dev.muhib01@gmail.com> 1731896839 +0600	merge google-tool-integrations: Fast-forward
+dd243f5693325ba1dae7b65b736d90215741c721 dd243f5693325ba1dae7b65b736d90215741c721 Muhibur Rahman <dev.muhib01@gmail.com> 1731896846 +0600	checkout: moving from main to google-tool-integrations
+dd243f5693325ba1dae7b65b736d90215741c721 89c9b0a4bdbfaf48aaebc3fe46eddf97fb548623 Muhibur Rahman <dev.muhib01@gmail.com> 1732251668 +0600	commit: create spreadsheet row added
+89c9b0a4bdbfaf48aaebc3fe46eddf97fb548623 1de06eedfd367845ac1c3e5b2d37371ebae8cd4b Muhibur Rahman <dev.muhib01@gmail.com> 1732586262 +0600	commit: update, delete sheet row added
+1de06eedfd367845ac1c3e5b2d37371ebae8cd4b dd243f5693325ba1dae7b65b736d90215741c721 Muhibur Rahman <dev.muhib01@gmail.com> 1732586271 +0600	checkout: moving from google-tool-integrations to main
+dd243f5693325ba1dae7b65b736d90215741c721 1de06eedfd367845ac1c3e5b2d37371ebae8cd4b Muhibur Rahman <dev.muhib01@gmail.com> 1732586281 +0600	merge google-tool-integrations: Fast-forward
+1de06eedfd367845ac1c3e5b2d37371ebae8cd4b 1de06eedfd367845ac1c3e5b2d37371ebae8cd4b Muhibur Rahman <dev.muhib01@gmail.com> 1732586301 +0600	checkout: moving from main to google-tool-integrations
+1de06eedfd367845ac1c3e5b2d37371ebae8cd4b 8414ec0163f36457bb1db349757e42d1ec4b2637 Muhibur Rahman <dev.muhib01@gmail.com> 1732949423 +0600	commit: dynamic update done
+8414ec0163f36457bb1db349757e42d1ec4b2637 e2eb101f6bb75b5c6e739d89f9730395d9c6263b Muhibur Rahman <dev.muhib01@gmail.com> 1732951381 +0600	commit: working with sheet donee
+e2eb101f6bb75b5c6e739d89f9730395d9c6263b 0e730fecff2eaab8d0d10c236a9db55c809cf201 Muhibur Rahman <dev.muhib01@gmail.com> 1733057706 +0600	commit: create, delete, fetch workflows done
+0e730fecff2eaab8d0d10c236a9db55c809cf201 f6466f73c4cd48c2807f81a2c9b9c965b5552553 Muhibur Rahman <dev.muhib01@gmail.com> 1733117671 +0600	commit: workflow published fetch by id added
+f6466f73c4cd48c2807f81a2c9b9c965b5552553 fac7e1293ecba6ad034fa7b7a9b7bdc6b7667b2e Muhibur Rahman <dev.muhib01@gmail.com> 1733149516 +0600	commit: save flow, check connection on edit nodes, etc updated
+fac7e1293ecba6ad034fa7b7a9b7bdc6b7667b2e 1de06eedfd367845ac1c3e5b2d37371ebae8cd4b Muhibur Rahman <dev.muhib01@gmail.com> 1733149527 +0600	checkout: moving from google-tool-integrations to main
+1de06eedfd367845ac1c3e5b2d37371ebae8cd4b fac7e1293ecba6ad034fa7b7a9b7bdc6b7667b2e Muhibur Rahman <dev.muhib01@gmail.com> 1733149534 +0600	merge google-tool-integrations: Fast-forward
+fac7e1293ecba6ad034fa7b7a9b7bdc6b7667b2e fac7e1293ecba6ad034fa7b7a9b7bdc6b7667b2e Muhibur Rahman <dev.muhib01@gmail.com> 1733149541 +0600	checkout: moving from main to google-tool-integrations
+fac7e1293ecba6ad034fa7b7a9b7bdc6b7667b2e f5f8b86f6e0332c90b90ffa892fccc7c079fee67 Muhibur Rahman <dev.muhib01@gmail.com> 1733232592 +0600	commit: create, update, fetch, delete order done
+f5f8b86f6e0332c90b90ffa892fccc7c079fee67 1e3ecb24cfbc67d8d3770fd4b3bbeee42d6bd0e2 Muhibur Rahman <dev.muhib01@gmail.com> 1733234481 +0600	commit: update
+1e3ecb24cfbc67d8d3770fd4b3bbeee42d6bd0e2 d340bb7e529d4f0cf51a6a536b2548608c31839e Muhibur Rahman <dev.muhib01@gmail.com> 1733238760 +0600	commit: orders, workflow search functionality added
+d340bb7e529d4f0cf51a6a536b2548608c31839e fac7e1293ecba6ad034fa7b7a9b7bdc6b7667b2e Muhibur Rahman <dev.muhib01@gmail.com> 1733239192 +0600	checkout: moving from google-tool-integrations to main
+fac7e1293ecba6ad034fa7b7a9b7bdc6b7667b2e d340bb7e529d4f0cf51a6a536b2548608c31839e Muhibur Rahman <dev.muhib01@gmail.com> 1733239199 +0600	merge google-tool-integrations: Fast-forward
+d340bb7e529d4f0cf51a6a536b2548608c31839e d340bb7e529d4f0cf51a6a536b2548608c31839e Muhibur Rahman <dev.muhib01@gmail.com> 1733239210 +0600	checkout: moving from main to google-tool-integrations
+d340bb7e529d4f0cf51a6a536b2548608c31839e e3205ec12ff5f66a7f904bbe530d387a7a12de63 Muhibur Rahman <dev.muhib01@gmail.com> 1733287678 +0600	commit: search removed from integrations page
+e3205ec12ff5f66a7f904bbe530d387a7a12de63 d5f3129a0eae2d580831b6616bcdbd809f66c23a Muhibur Rahman <dev.muhib01@gmail.com> 1733300587 +0600	commit: condition branch update
+d5f3129a0eae2d580831b6616bcdbd809f66c23a b69e09b23f5bc674bfc49f90e6f1de5086c6a4d7 Muhibur Rahman <dev.muhib01@gmail.com> 1733376730 +0600	commit: update nodes and nodesize
+b69e09b23f5bc674bfc49f90e6f1de5086c6a4d7 a10232a3fce6aaccc115e6ad4c3a1619f91edde3 Muhibur Rahman <dev.muhib01@gmail.com> 1733377781 +0600	commit: update edge button and handle circle removed
+a10232a3fce6aaccc115e6ad4c3a1619f91edde3 d340bb7e529d4f0cf51a6a536b2548608c31839e Muhibur Rahman <dev.muhib01@gmail.com> 1733377795 +0600	checkout: moving from google-tool-integrations to main
+d340bb7e529d4f0cf51a6a536b2548608c31839e a10232a3fce6aaccc115e6ad4c3a1619f91edde3 Muhibur Rahman <dev.muhib01@gmail.com> 1733377803 +0600	merge google-tool-integrations: Fast-forward
+a10232a3fce6aaccc115e6ad4c3a1619f91edde3 a10232a3fce6aaccc115e6ad4c3a1619f91edde3 Muhibur Rahman <dev.muhib01@gmail.com> 1733377812 +0600	checkout: moving from main to google-tool-integrations
+a10232a3fce6aaccc115e6ad4c3a1619f91edde3 1f3ba0e961a07e121931016eced20fc8f337b790 Muhibur Rahman <dev.muhib01@gmail.com> 1733379107 +0600	commit: connections is upcoming added
+1f3ba0e961a07e121931016eced20fc8f337b790 a10232a3fce6aaccc115e6ad4c3a1619f91edde3 Muhibur Rahman <dev.muhib01@gmail.com> 1733379114 +0600	checkout: moving from google-tool-integrations to main
+a10232a3fce6aaccc115e6ad4c3a1619f91edde3 1f3ba0e961a07e121931016eced20fc8f337b790 Muhibur Rahman <dev.muhib01@gmail.com> 1733379118 +0600	merge google-tool-integrations: Fast-forward
+1f3ba0e961a07e121931016eced20fc8f337b790 1f3ba0e961a07e121931016eced20fc8f337b790 Muhibur Rahman <dev.muhib01@gmail.com> 1733379126 +0600	checkout: moving from main to google-tool-integrations
+1f3ba0e961a07e121931016eced20fc8f337b790 2f7cc5c0da39085fe135807e369ffdd1a7d0aa8b Muhibur Rahman <dev.muhib01@gmail.com> 1733382728 +0600	commit: refactored automation store state access
+2f7cc5c0da39085fe135807e369ffdd1a7d0aa8b 1f3ba0e961a07e121931016eced20fc8f337b790 Muhibur Rahman <dev.muhib01@gmail.com> 1733382779 +0600	checkout: moving from google-tool-integrations to main
+1f3ba0e961a07e121931016eced20fc8f337b790 2f7cc5c0da39085fe135807e369ffdd1a7d0aa8b Muhibur Rahman <dev.muhib01@gmail.com> 1733382786 +0600	merge google-tool-integrations: Fast-forward
+2f7cc5c0da39085fe135807e369ffdd1a7d0aa8b 2f7cc5c0da39085fe135807e369ffdd1a7d0aa8b Muhibur Rahman <dev.muhib01@gmail.com> 1733382795 +0600	checkout: moving from main to google-tool-integrations
+2f7cc5c0da39085fe135807e369ffdd1a7d0aa8b d421670c281c399435fe51742ac164dc6250e95e Muhibur Rahman <dev.muhib01@gmail.com> 1733407317 +0600	commit: conditional branch delete added and some update
+d421670c281c399435fe51742ac164dc6250e95e 2f7cc5c0da39085fe135807e369ffdd1a7d0aa8b Muhibur Rahman <dev.muhib01@gmail.com> 1733407326 +0600	checkout: moving from google-tool-integrations to main
+2f7cc5c0da39085fe135807e369ffdd1a7d0aa8b d421670c281c399435fe51742ac164dc6250e95e Muhibur Rahman <dev.muhib01@gmail.com> 1733407332 +0600	merge google-tool-integrations: Fast-forward
+d421670c281c399435fe51742ac164dc6250e95e d421670c281c399435fe51742ac164dc6250e95e Muhibur Rahman <dev.muhib01@gmail.com> 1733410320 +0600	checkout: moving from main to google-tool-integrations
+d421670c281c399435fe51742ac164dc6250e95e 0725740249e55a2b5850480d62eba3a5846f4c8d Muhibur Rahman <dev.muhib01@gmail.com> 1733494350 +0600	commit: update
+0725740249e55a2b5850480d62eba3a5846f4c8d d421670c281c399435fe51742ac164dc6250e95e Muhibur Rahman <dev.muhib01@gmail.com> 1733494375 +0600	checkout: moving from google-tool-integrations to main
+d421670c281c399435fe51742ac164dc6250e95e 0725740249e55a2b5850480d62eba3a5846f4c8d Muhibur Rahman <dev.muhib01@gmail.com> 1733494380 +0600	merge google-tool-integrations: Fast-forward
+0725740249e55a2b5850480d62eba3a5846f4c8d d7708873073a0311cba248788a5f9eb0b4474cab Muhibur Rahman <dev.muhib01@gmail.com> 1733495333 +0600	commit: update
+d7708873073a0311cba248788a5f9eb0b4474cab 7de2c64d79757146c67de8f1f1aa6bf46bf5b8e4 Muhibur Rahman <dev.muhib01@gmail.com> 1733496713 +0600	commit: deployment error fix
+7de2c64d79757146c67de8f1f1aa6bf46bf5b8e4 4366a2074571a5fd95d6d274f39f086e1cb44be6 Muhibur Rahman <dev.muhib01@gmail.com> 1733498898 +0600	commit: deployment error fix
+4366a2074571a5fd95d6d274f39f086e1cb44be6 0725740249e55a2b5850480d62eba3a5846f4c8d Muhibur Rahman <dev.muhib01@gmail.com> 1733499672 +0600	checkout: moving from main to google-tool-integrations
+0725740249e55a2b5850480d62eba3a5846f4c8d 4366a2074571a5fd95d6d274f39f086e1cb44be6 Muhibur Rahman <dev.muhib01@gmail.com> 1733499683 +0600	checkout: moving from google-tool-integrations to main
+4366a2074571a5fd95d6d274f39f086e1cb44be6 a459198148bb7f627694f7a01365c8bdfb0c7634 Muhibur Rahman <dev.muhib01@gmail.com> 1733499998 +0600	commit: update
+a459198148bb7f627694f7a01365c8bdfb0c7634 0f855bd8533871b6bd281d7082e233cf0a7846f2 Muhibur Rahman <dev.muhib01@gmail.com> 1733844460 +0600	commit: update
+0f855bd8533871b6bd281d7082e233cf0a7846f2 47cc3a708741382b6845eee03059412b13d68c54 Muhibur Rahman <dev.muhib01@gmail.com> 1734974206 +0600	commit: update
+47cc3a708741382b6845eee03059412b13d68c54 092633a3f5493a1c3b51c81c9b25cfd0a32285d9 Muhibur Rahman <dev.muhib01@gmail.com> 1737091532 +0600	commit: update
+092633a3f5493a1c3b51c81c9b25cfd0a32285d9 2e0f3ae3f4d92954c653703b0b5af8d1e4506674 Muhibur Rahman <dev.muhib01@gmail.com> 1737352802 +0600	commit: update
+2e0f3ae3f4d92954c653703b0b5af8d1e4506674 3f7b209de8ae1780b828e4a93535cff6bc669ba0 Muhibur Rahman <dev.muhib01@gmail.com> 1738300628 +0600	commit: apps connection check api call reduce
+3f7b209de8ae1780b828e4a93535cff6bc669ba0 c2ce764b57704a751c0611dea1d099ef9512066c Muhibur Rahman <dev.muhib01@gmail.com> 1738303322 +0600	commit: update google sheets node
+c2ce764b57704a751c0611dea1d099ef9512066c f9d33eaf714493f7a65f5a966d208064d2d99c23 Muhibur Rahman <dev.muhib01@gmail.com> 1738304096 +0600	commit: discord node update
+f9d33eaf714493f7a65f5a966d208064d2d99c23 3cf85c93d89e5827c08c1434d1c4bbf6891d3a37 Muhibur Rahman <dev.muhib01@gmail.com> 1738415540 +0600	commit: update
